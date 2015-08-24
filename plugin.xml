@@ -135,7 +135,7 @@
         <framework src="src/android/urbanairship-lib" custom="true" />
 
         <dependency id="android.support.v4" />
-        <dependency id="com.google.play.services" />
+        <dependency id="com.google.playservices" />
 
     </platform>
     
